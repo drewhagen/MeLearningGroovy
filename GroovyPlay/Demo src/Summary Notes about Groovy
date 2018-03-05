@@ -1,0 +1,7 @@
+-> Groovy eliminates much of Java's verbosity
+-> Groovy has advanced collection handling
+    --> concepts like ranges
+-> Supports functional concepts
+    --> closures too!
+-> Brings dynamic typing to the JVM
+    --> opens up possibilities not seen on the JVM with Java
